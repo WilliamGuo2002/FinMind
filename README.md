@@ -9,7 +9,6 @@
 - 🔍 Auto-categorization & expense analytics
 - 🗓️ Support for recurring transactions and budgeting
 - ☁️ Planned cloud sync & multi-device support
-- 📱 Unified UX across mobile and desktop platforms
 
 ## 📁 Project Structure (Planned)
 
@@ -46,7 +45,6 @@ This project is initiated by @WilliamGuo2002. Contributions are welcome, but ple
 - 🔍 自动分类与消费分析
 - 🗓️ 支持周期性收支与预算管理
 - ☁️ 云同步与多设备支持（规划中）
-- 📱 移动端和桌面端统一设计语言
 
 ## 📁 项目结构（规划中）
 
