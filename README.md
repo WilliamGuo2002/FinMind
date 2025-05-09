@@ -28,7 +28,7 @@
 
 ## 🤝 Collaboration Statement
 
-This project is initiated by [Your Name]. Contributions are welcome, but please respect the original design vision. If you fork or reuse this project, kindly retain a reference to the original repository.
+This project is initiated by @WilliamGuo2002. Contributions are welcome, but please respect the original design vision. If you fork or reuse this project, kindly retain a reference to the original repository.
 
 ## 📄 License
 
@@ -65,7 +65,7 @@ This project is initiated by [Your Name]. Contributions are welcome, but please 
 
 ## 🤝 合作声明
 
-本项目由 [你的名字] 发起，欢迎贡献者参与开发，但请尊重项目原始设计和理念。任何 Fork、二次开发请保留原始仓库链接。
+本项目由 @WilliamGuo2002 发起，欢迎贡献者参与开发，但请尊重项目原始设计和理念。任何 Fork、二次开发请保留原始仓库链接。
 
 ## 📄 License
 
