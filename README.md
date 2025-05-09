@@ -37,7 +37,7 @@ This project is initiated by @WilliamGuo2002. Contributions are welcome, but ple
 -------------------------------
 # FinMind
 
-**FinMind** 是一个智能记账与财务助理应用，结合了现代用户界面设计与人工智能助手，为用户提供高效、个性化的财务管理体验。适用于移动端与桌面端。
+**FinMind** 是一个智能记账与财务助理应用，结合了现代用户界面设计与人工智能助手，为用户提供高效、个性化的财务管理体验。适用于移动端。
 
 ## 🌟 项目特点
 
