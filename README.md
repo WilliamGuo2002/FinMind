@@ -5,7 +5,7 @@
 ## 🌟 Features
 
 - 📊 Multi-account & multi-currency bookkeeping
-- 🧠 Built-in AI assistant for smart suggestions
+- 🧠 Built-in AI assistant for smart suggestions (By using Google Gemini)
 - 🔍 Auto-categorization & expense analytics
 - 🗓️ Support for recurring transactions and budgeting
 - ☁️ Planned cloud sync & multi-device support
@@ -41,7 +41,7 @@ This project is initiated by @WilliamGuo2002. Contributions are welcome, but ple
 ## 🌟 项目特点
 
 - 📊 多账户多币种记账支持
-- 🧠 集成 AI 助手（支持 ChatGPT 或 Gemini）
+- 🧠 集成 AI 助手（目前想法是使用Gemmini）
 - 🔍 自动分类与消费分析
 - 🗓️ 支持周期性收支与预算管理
 - ☁️ 云同步与多设备支持（规划中）
